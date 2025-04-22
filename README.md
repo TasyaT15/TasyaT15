@@ -64,7 +64,6 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Certificate_1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/TasyaT15/TasyaT15/refs/heads/main/Certificate_1.png)
 [<img src="/Certificate_2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/TasyaT15/TasyaT15/refs/heads/main/Certificate_2.png)
 
 <br>
