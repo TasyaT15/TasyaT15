@@ -73,4 +73,19 @@
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:tatarkina.mary@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TatarkinaTasya)
 
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
+
+![Snake animation](https://github.com/TasyaT15/TasyaT15/blob/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+<br/>
+
+<h4 align="center">
+<a href="https://open.spotify.com/">
+  <img align="center" width="45%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
+</h4>
+
+<br/>
